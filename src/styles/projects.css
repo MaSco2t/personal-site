@@ -1,0 +1,40 @@
+
+ .projects{
+    margin-top:40px;
+    
+    .project{
+        width:600px;
+        border-radius:5px;
+        border: 1px black solid;
+        margin-bottom:30px;
+        background:white;
+
+        p:first-child{
+            margin-top:0.5em;
+            font-weight:bold;
+        }
+        p{
+            margin:0.5em 5px;
+        }
+        button{
+            box-sizing: content-box;
+            height:20px;
+            padding: 1px 15px;
+            border-width:1px;
+            border-radius:5px;
+            margin: 0.5em 10px 1em 5px;
+            color:black;
+            cursor:pointer;
+        }
+        .site{
+            background-color:pink;
+        }
+        .demo{
+            background-color:rgb(246, 247, 213);
+        }
+        .github{
+            background-color:lightblue;
+        }
+    }
+ }
+    

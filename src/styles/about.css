@@ -1,0 +1,8 @@
+.about {
+    text-align:center;
+    width:600px;
+    margin: auto;
+    p{
+        margin-top:40px;
+    }
+}
